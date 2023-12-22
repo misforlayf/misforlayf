@@ -57,6 +57,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/misforlayf/snake.svg" />
-
 ###
