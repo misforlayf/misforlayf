@@ -52,11 +52,11 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=CorenGT.CorenGT&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=misforlayf.misforlayf&"  />
 </div>
 
 ###
 
-<img src="https://raw.githubusercontent.com/CorenGT/CorenGT/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/misforlayf/misforlayf/output/snake.svg" alt="Snake animation" />
 
 ###
