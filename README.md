@@ -57,6 +57,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/misforlayf/misforlayf/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/misforlayf/misforlayf/snake.svg" />
 
 ###
