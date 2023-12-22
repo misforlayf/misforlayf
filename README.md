@@ -59,6 +59,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/CorenGT/CorenGT/output/snake.svg" alt="Snake animation" />
-
 ###
