@@ -13,7 +13,7 @@
 
 ###
 
-<h1 align="center">My Name İs Batuhan, im developing ai</h1>
+<h1 align="center">My Name İs Batuhan, im developing python</h1>
 
 ###
 
@@ -21,7 +21,7 @@
 
 ###
 
-<p align="left">I'm ... from .... Turkey<br><br>- 🔭 I’m working as ... AI, Analysis<br>- 📚 I'm currently learning ... AI<br>- ⚡ In my free time I ... Fitness</p>
+<p align="left">I'm ... from .... Turkey<br><br>- 🔭 I’m working as ... analysis<br>- 📚 I'm currently learning ... analysis<br>
 
 ###
 
@@ -36,7 +36,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
   <img width="12" />
