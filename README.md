@@ -1,3 +1,5 @@
+# Hı my name is Batu, i am AI developer
+
 # 💫 About Me:
 🔭 I’m currently working on AI<br><br>🌱 I’m currently learning Database Management and AI<br><br>⚡ My Hobbies: Body Building
 
