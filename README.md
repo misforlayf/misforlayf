@@ -18,5 +18,4 @@
 [![](https://visitcount.itsvg.in/api?id=misforlayf&icon=2&color=2)](https://visitcount.itsvg.in)
 
 # "Beni görmek demek mutlaka yüzümü görmek demek değildir. Benim fikirlerimi, benim duygularımı anlıyorsanız ve hissediyorsanız bu yeterlidir."
-
 # - Mustafa Kemal Atatürk
