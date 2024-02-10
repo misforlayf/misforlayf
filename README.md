@@ -1,4 +1,4 @@
-# Hı my name is Batu, i am AI developer
+# AI Dev. | Python Dev. | SQL | Deep Learning | NLP | Computer Vision
 
 # 💫 About Me:
 🔭 I’m currently working on AI<br><br>🌱 I’m currently learning Database Management and AI<br><br>⚡ My Hobbies: Body Building
