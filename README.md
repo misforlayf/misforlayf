@@ -17,12 +17,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=misforlayf&icon=2&color=2)](https://visitcount.itsvg.in)
 
-"Beni görmek demek mutlaka yüzümü görmek demek değildir. Benim fikirlerimi, benim duygularımı anlıyorsanız ve hissediyorsanız bu yeterlidir."
+# "Beni görmek demek mutlaka yüzümü görmek demek değildir. Benim fikirlerimi, benim duygularımı anlıyorsanız ve hissediyorsanız bu yeterlidir."
 
 # - Mustafa Kemal Atatürk
-
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/misforlayf) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
