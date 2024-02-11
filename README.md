@@ -1,4 +1,4 @@
-# AI Dev. | Python Dev. | SQL | Deep Learning | NLP | Computer Vision
+# AI Dev. | Python Dev. | SQL | Deep Learning | NLP | İmage Classification | Object Recognition
 
 # 💫 About Me:
 🔭 I’m currently working on AI<br><br>🌱 I’m currently learning Database Management and AI<br><br>⚡ My Hobbies: Body Building
