@@ -1,4 +1,4 @@
-# AI Dev. | Python Dev. | SQL | Deep Learning | İmage Classification | Supervising Learning
+# AI Dev. | Python Dev. | Deep Learning | İmage Classification | Supervising Learning
 
 # 💫 About Me:
 🔭 I’m currently working on AI<br><br>🌱 I’m currently learning Database Management and AI<br><br>⚡ My Hobbies: Body Building
