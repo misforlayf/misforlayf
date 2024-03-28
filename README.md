@@ -1,4 +1,4 @@
-# AI Dev. | Python Dev. | Deep Learning | İmage Classification | Supervising Learning | Transfer Learning
+# AI Dev. | Python Dev. | Supervising Learning | Transfer Learning
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/batuhan-yılmaz-921391286/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/channel/UCGdEMK3ud5mRhFqXpiYkD1Q) 
